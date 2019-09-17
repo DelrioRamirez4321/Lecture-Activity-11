@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    font-size: 14px;
+}
+div {
+    border: solid purple;
+}
+p {
+    border: dashed yellow;
+    margin: 1em;
+    padding: 2em;
+}
